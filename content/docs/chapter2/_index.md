@@ -13,3 +13,11 @@ type: book  # Do not modify.
 ---
 
 
+            
+auth
+  .login(email.value, password.value)
+  .then(response => {
+    showMessage("Success! Response: " + JSON.stringify({ response }), form);
+  })
+  .catch(error => showMessage("Failed :( " + JSON.stringify(error), form));
+            
