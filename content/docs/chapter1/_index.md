@@ -12,6 +12,8 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
+## Introducción
+
 Todo plan de emergencia necesita de una planificación operativa estableciendo
 como se va a hacer frente para mitigarlo, con que equipos, que cerrar, que
 abrir, que operar, que parar, que arrancar, que personal es necesario y que rol
@@ -39,7 +41,11 @@ ello es imprescindible contar con un programa de mantenimiento de estos
 recursos, que contemple los siguientes aspectos: inspecciones planeadas,
 pruebas, mantenimiento preventivo, reparación de desperfectos y reemplazos. 
 
+## Inventario completo para emergencia de alto nivel
+
 {{< figure library="true" src="recursos completos para emergencias.png" title="Inventario Completo para una emergencia mayor" >}}
+
+## Material esencial para un botiquín de primeros auxilios
 
 {{< figure library="true" src="contenido mínimo de un botiquín.png" title="Contenido mínimo para un botiquín de primeros auxilios" >}}
 
