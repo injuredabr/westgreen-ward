@@ -11,3 +11,7 @@ weight: 3
 ## Alternativa en caso de incendios.
 
 {{< figure library="true" src="en caso de incendio.png" title="Plan simple en caso de incendio" >}}
+
+{{< figure library="true" src="recarga del extintor.png" title="Relación para el cuidado del extintor" >}}
+
+{{< figure library="true" src="cronograma contra incendios.png" title="Cronograma para un brigadista en caso extremo" >}}
