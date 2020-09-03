@@ -20,8 +20,8 @@ hero_media = "logobwg.png"
   # color = "navy"
   
   # Background gradient.
-   gradient_start = "#004182"
-   gradient_end = "#19548e"
+   gradient_start = "#000000"
+   gradient_end = "#001327"
   
   # Background image.
   # image = "universe.jpg"  # Name of image in `static/media/`.
