@@ -7,7 +7,7 @@ icon: book
 icon_pack: fas
 
 # Page metadata.
-title: Recursos_de_emergencia
+title: Recursos de emergencia
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
