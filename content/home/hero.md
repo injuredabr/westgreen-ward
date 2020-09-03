@@ -21,7 +21,7 @@ hero_media = "logobwg.png"
   
   # Background gradient.
    gradient_start = "#000000"
-   gradient_end = "#001327"
+   gradient_end = "#001a34"
   
   # Background image.
   # image = "universe.jpg"  # Name of image in `static/media/`.
@@ -52,4 +52,3 @@ hero_media = "logobwg.png"
 +++
 
 Haced lo mejor que puedas y el Señor tu Dios agregara su poder a ese esfuerzo.
-Write something interesting about your project here.
