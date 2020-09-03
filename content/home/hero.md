@@ -38,7 +38,7 @@ hero_media = "logobwg.png"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "docs/"
-  label = "Get Started"
+  label = "Recursos"
   icon_pack = "fas"
   icon = "download"
   
@@ -47,8 +47,7 @@ hero_media = "logobwg.png"
   label = "Tópicos"
 
 # Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
+
 +++
 
 Haced lo mejor que puedas y el Señor tu Dios agregara su poder a ese esfuerzo.
