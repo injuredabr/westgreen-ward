@@ -45,7 +45,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+org_name = "Barrio Westgreen"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "Sitio con información específica en caso de desastre natural y preparación espiritual por parte del Barrio West Green de la Iglesia De Jesucristo De Los Santos De Los ÚltimOS Días"
