@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Sitio con información específica en caso de desastre natural y preparación espiritual por parte del Barrio West Green de la Iglesia De Jesucristo De Los Santos De Los ÚltimOS Días"
 
 ############################
 ## Site Features
