@@ -38,3 +38,8 @@ emergencia, es necesario que se encuentren en condiciones de operar. Para
 ello es imprescindible contar con un programa de mantenimiento de estos
 recursos, que contemple los siguientes aspectos: inspecciones planeadas,
 pruebas, mantenimiento preventivo, reparación de desperfectos y reemplazos. 
+
+{{< figure library="true" src="recursos completos para emergencias.png" title="Inventario Completo para una emergencia mayor" >}}
+
+{{< figure library="true" src="contenido mínimo de un botiquín.png" title="Contenido mínimo para un botiquín de primeros auxilios" >}}
+
