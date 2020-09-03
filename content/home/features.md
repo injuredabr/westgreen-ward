@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Features"
-subtitle = "Document _anything_ ✨"
+title = "Características"
+subtitle = "Información _básica para un desastre natural_ ✨"
 
 # Showcase features.
 # 
@@ -17,20 +17,20 @@ subtitle = "Document _anything_ ✨"
 [[feature]]
   icon = "book-open"
   icon_pack = "fas"
-  name = "Project Documentation"
-  description = "For users"
+  name = "Información clara"
+  description = "Para los usuarios"
   
 [[feature]]
   icon = "question"
   icon_pack = "fas"
-  name = "Knowledge Base"
-  description = "For teams"  
+  name = "Información edificante"
+  description = "Para el espíritu"  
   
 [[feature]]
   icon = "list-alt"
   icon_pack = "fas"
-  name = "Personal Notebook"
-  description = "For yourself"
+  name = "Contacto con el líder"
+  description = "En cualquier emergencia"
 
 # Uncomment to use emoji icons.
 # [[feature]]
