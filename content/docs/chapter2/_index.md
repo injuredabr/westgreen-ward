@@ -12,12 +12,3 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-
-            
-auth
-  .login(email.value, password.value)
-  .then(response => {
-    showMessage("Success! Response: " + JSON.stringify({ response }), form);
-  })
-  .catch(error => showMessage("Failed :( " + JSON.stringify(error), form));
-            
